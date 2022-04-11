@@ -1,5 +1,2 @@
 # robocode
-a tank for robocode
-
-eateateat
-looklooklook
+Tank for robocode
